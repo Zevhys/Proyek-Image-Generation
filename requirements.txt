@@ -10,6 +10,7 @@ pillow>=10.0.0
 numpy>=1.24.0
 matplotlib>=3.7.0
 
-# Aplikasi web
+# Aplikasi web + tunneling (sesuai notebook Streamlit template)
 streamlit>=1.31.0
-streamlit-drawable-canvas>=0.9.3
+streamlit-drawable-canvas==0.8.0
+pyngrok>=7.0.0
