@@ -1,0 +1,15 @@
+# Core diffusion stack
+torch>=2.1.0
+diffusers>=0.27.0
+transformers>=4.38.0
+accelerate>=0.27.0
+safetensors>=0.4.0
+
+# Image & visualisasi
+pillow>=10.0.0
+numpy>=1.24.0
+matplotlib>=3.7.0
+
+# Aplikasi web
+streamlit>=1.31.0
+streamlit-drawable-canvas>=0.9.3
